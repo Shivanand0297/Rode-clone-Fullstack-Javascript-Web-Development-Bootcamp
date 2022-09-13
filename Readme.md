@@ -3,16 +3,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp">
+  <a href="https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Shopify Clone
+<h3 align="center">Rode Clone
 </h3>
 
   <p align="center">
     <br />
-    <a href="https://shivanand-shopify-clone.netlify.app/">Live Link</a>
+    <a href="https://shivanand-rode-clone.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -35,28 +35,28 @@
 
 ## About The Project
 
-Created Shopify clone using Tailwind CSS. It is responsive on all devices. 
+Created Rode clone using Tailwind CSS. It is responsive on all devices. 
 
 #### For large screens
 
-![large-screen](https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Shopify/screenshots/large-Best-Ecommerce-Platform-in-India-Custom-Ecommerce-Software-for-Your-Needs-Shopify.png)
+![large-screen](https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Rode/Screenshots/large-R%C3%98DE-Microphones.png)
 
 #### For Medium screens
 
 
-![medium-screen](https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Shopify/screenshots/medium-Best-Ecommerce-Platform-in-India-Custom-Ecommerce-Software-for-Your-Needs-Shopify.png)
+![medium-screen](https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Rode/Screenshots/medium-R%C3%98DE-Microphones.png)
 
 #### For Tablet
 
 
-![tablet-screens](https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Shopify/screenshots/tablet-Best-Ecommerce-Platform-in-India-Custom-Ecommerce-Software-for-Your-Needs-Shopify.png)
+![tablet-screens](https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Rode/Screenshots/tablet-R%C3%98DE-Microphones.png)
 
 
 
 #### For Mobile Screens
 
 
-![mobile-screens](https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Shopify/screenshots/mobile-Best-Ecommerce-Platform-in-India-Custom-Ecommerce-Software-for-Your-Needs-Shopify.png)
+![mobile-screens](https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp/blob/Rode/Screenshots/mobilw-R%C3%98DE-Microphones.png)
 
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
@@ -102,7 +102,7 @@ Source Code :
 
 ## Note
 
-For this project I took around `2 Days` to complete it. The major portion of my time was spent in making it responsive for all devices.
+For this project I took around `10 hours` to complete it. The major portion of my time was spent in making it responsive for all devices.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -167,6 +167,6 @@ For this project I took around `2 Days` to complete it. The major portion of my 
 
 <!-- Project screenshot -->
 
-[project-url]: https://shivanand-shopify-clone.netlify.app/
+[project-url]: https://shivanand-rode-clone.netlify.app/
 
-[source-code]: https://github.com/Shivanand0297/Shopify-clone-Fullstack-Javascript-Web-Development-Bootcamp
+[source-code]: https://github.com/Shivanand0297/Rode-clone-Fullstack-Javascript-Web-Development-Bootcamp
